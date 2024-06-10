@@ -19,7 +19,7 @@ Welcome to the Amazon Clone repository! This project is a mini clone of Amazon, 
 
 ## Introduction
 
-This project demonstrates an Amazon clone using HTML and CSS. It includes various HTML tags and CSS properties to create a fully responsive web page that mimics the layout and design of the Amazon website.
+This project demonstrates an Amazon clone using HTML,CSS and JAVASCRIPT. It includes various HTML tags and CSS properties to create a fully responsive web page that mimics the layout and design of the Amazon website.
 
 ## Features
 
@@ -27,14 +27,115 @@ This project demonstrates an Amazon clone using HTML and CSS. It includes variou
 - Structured HTML elements
 - Styled with CSS
 
+  ```These are the bried introduction part of properties used in the project.For further details and examples please refer `properties_details_of_project` above```
+
 ## Meta Tags for Compatibility and Responsiveness
 
 ### Meta Tag for IE Compatibility
 ```html
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 ```
+This meta tag allows the webpage to adapt to different screen sizes, making it responsive and user-friendly on mobile devices.
+
+## HTML Header Element
+Defines the header section, including the logo and navigation links.
+
+### header
+<header>
+  <h1>Amazon Clone</h1>
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#products">Products</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+
+### HTML Div Element
+Used to create different sections and containers within the web page.
+
+<div class="container">
+  <!-- Content here -->
+</div>
+
+### HTML Section Tag
+Groups related content together within the page.
+
+<section class="products">
+  <!-- Products here -->
+</section>
+
+### CSS Box Sizing
+Includes padding and border in the element's total width and height.
+
+.box {
+  width: 300px;
+  height: 100px;
+  border: 1px solid blue;
+  box-sizing: border-box;
+}
+
+### CSS Flexbox Layout Module
+Creates flexible and responsive layouts without using floats or positioning.
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
+### CSS Padding
+Defines the space between the content and the border of an element.
+
+.element {
+  padding: 10px 20px;
+}
+
+### CSS Cursor Property
+Changes the appearance of the mouse cursor when hovering over an element.
+
+.button {
+  cursor: pointer;
+}
+
+### CSS Overflow Property
+Specifies how to handle content that overflows an element's box.
+
+.container {
+  overflow: auto;
+}
+
+### CSS Outline
+Draws a line around an element, outside the border, to make it stand out.
+
+.highlight {
+  outline: 2px solid red;
+}
 
 
 ## Screenshots
+![Screenshot (782)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/5767926d-a10b-4e31-a76a-4c21cf79c664)
+
+![Screenshot (783)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/7a72857c-d0a9-4a8d-af82-e1f49d72373e)
+
+![Screenshot (784)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/d9c09f3f-bd0b-49dc-861f-f353d17967dd)
+
+![Screenshot (785)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/25a46927-d79f-4494-b383-81c63821f64f)
+
+![Screenshot (786)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/349ebd44-6f59-4a36-9015-a93a653f9f4c)
+
+![Screenshot (787)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/9e9a0586-3203-4571-9b17-5986f58e68b2)
+
+![Screenshot (788)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/7c395db2-e3b8-43c0-86dc-a9ea8d14e15f)
+
+![Screenshot (789)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/b8599493-4b85-420b-a235-983b58409682)
+
+![Screenshot (790)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/5655ae03-71a6-4d9a-9c20-54c4ed7e7a69)
+
+![Screenshot (791)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/7e80b595-044b-4f56-8547-df4598164549)
+
 ![Screenshot (792)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/f950d073-4564-4ef3-80be-acfd02c0b181)
+
+### Demo Video
 
