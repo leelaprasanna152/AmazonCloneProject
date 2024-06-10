@@ -27,7 +27,7 @@ This project demonstrates an Amazon clone using HTML,CSS and JAVASCRIPT. It incl
 - Structured HTML elements
 - Styled with CSS
 
-> **These are the bried introduction part of properties used in the project.For further details and examples please refer `properties_details_of_project` above**
+> **These are the brief introduction part of properties used in the project. For further details and examples please refer `properties_details_of_project` above**
 
 ## Meta Tags for Compatibility and Responsiveness
 
