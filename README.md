@@ -36,4 +36,5 @@ This project demonstrates an Amazon clone using HTML and CSS. It includes variou
 
 
 ## Screenshots
-https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/f950d073-4564-4ef3-80be-acfd02c0b181
+![Screenshot (792)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/f950d073-4564-4ef3-80be-acfd02c0b181)
+
