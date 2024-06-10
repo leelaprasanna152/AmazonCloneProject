@@ -32,6 +32,7 @@ This project demonstrates an Amazon clone using HTML and CSS. It includes variou
 ### Meta Tag for IE Compatibility
 ```html
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+```
 
 
 ## Screenshots
