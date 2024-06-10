@@ -27,7 +27,7 @@ This project demonstrates an Amazon clone using HTML,CSS and JAVASCRIPT. It incl
 - Structured HTML elements
 - Styled with CSS
 
-  ```These are the bried introduction part of properties used in the project.For further details and examples please refer `properties_details_of_project` above```
+> ```These are the bried introduction part of properties used in the project.For further details and examples please refer `properties_details_of_project` above```
 
 ## Meta Tags for Compatibility and Responsiveness
 
@@ -115,11 +115,9 @@ Draws a line around an element, outside the border, to make it stand out.
 
 
 ## Screenshots
-![Screenshot (782)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/5767926d-a10b-4e31-a76a-4c21cf79c664)
+
 
 ![Screenshot (783)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/7a72857c-d0a9-4a8d-af82-e1f49d72373e)
-
-![Screenshot (784)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/d9c09f3f-bd0b-49dc-861f-f353d17967dd)
 
 ![Screenshot (785)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/25a46927-d79f-4494-b383-81c63821f64f)
 
@@ -127,11 +125,7 @@ Draws a line around an element, outside the border, to make it stand out.
 
 ![Screenshot (787)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/9e9a0586-3203-4571-9b17-5986f58e68b2)
 
-![Screenshot (788)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/7c395db2-e3b8-43c0-86dc-a9ea8d14e15f)
-
 ![Screenshot (789)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/b8599493-4b85-420b-a235-983b58409682)
-
-![Screenshot (790)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/5655ae03-71a6-4d9a-9c20-54c4ed7e7a69)
 
 ![Screenshot (791)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/7e80b595-044b-4f56-8547-df4598164549)
 
@@ -139,3 +133,4 @@ Draws a line around an element, outside the border, to make it stand out.
 
 ### Demo Video
 
+https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/f7cdfafa-87e6-44a3-b17d-782b196f3c3d
