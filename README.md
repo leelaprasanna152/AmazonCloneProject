@@ -127,8 +127,6 @@ Draws a line around an element, outside the border, to make it stand out.
 
 ![Screenshot (789)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/b8599493-4b85-420b-a235-983b58409682)
 
-![Screenshot (791)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/7e80b595-044b-4f56-8547-df4598164549)
-
 ![Screenshot (792)](https://github.com/leelaprasanna152/AmazonCloneProject/assets/142930059/f950d073-4564-4ef3-80be-acfd02c0b181)
 
 ### Demo Video
